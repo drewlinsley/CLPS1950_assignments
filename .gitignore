@@ -1,0 +1,17 @@
+*.pyc
+*.jpg
+*.bmp
+*.jpeg
+*.png
+*.tiff
+*.ipynb*
+*.meta
+*_batch
+*_batch*
+readme.html
+.DS_Store
+*.html
+alexnet.npy
+*.csv
+*.h5
+
